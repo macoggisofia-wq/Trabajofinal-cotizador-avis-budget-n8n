@@ -14,6 +14,7 @@ al cliente.
 
 ## Arquitectura
 Ver diagrama completo en https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/e99f702e3ecf5f9b41c9c9d520e7fb08677884ff/Diagrama%20de%20Arquitectura-Cotizador%20ABG.pdf
+Diagrama JSON:
 
 ## Flujo del proceso
 1. Cliente completa formulario en Notion.
@@ -32,7 +33,7 @@ Ver diagrama completo en https://github.com/macoggisofia-wq/Trabajofinal-cotizad
 - Video demo error: https://drive.google.com/file/d/1TtkCO1j62qGP2dzz8Ck98o-kL0t5MCHM/view?usp=sharing
 
 ## Evidencia
-Ver capturas en [Evidencias del funcionamiento del Workflow (1).pdf](Evidencias%20del%20funcionamiento%20del%20Workflow%20%281%29.pdf)
+Ver capturas en [[Evidencias del funcionamiento del Workflow (1).pdf](Evidencias%20del%20funcionamiento%20del%20Workflow%20%281%29.pdf)](https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/5e1bc670afe4f6ee55dfb42db4f378d797901a0d/Evidencias%20del%20funcionamiento%20del%20Workflow%20(1).pdf)
 
 ## Lógica del flujo
 Archivo exportado de n8n: [Trabajo final (2).json](Trabajo%20final%20%282%29.json)
