@@ -28,8 +28,13 @@ Ver diagrama completo en [Diagrama de Arquitectura-Cotizador ABG.pdf](https://gi
 - Base de datos Notion: https://accidental-leotard-1e6.notion.site/Precios-Julio-2026-39b1cebc2ccf80df9badf481f903302b?source=copy_link 
 - Formulario del cliente Notion: https://accidental-leotard-1e6.notion.site/39d1cebc2ccf80229116d964429e8c23?v=39f1cebc2ccf80b08928000cdaf9134f&source=copy_link
 - Pedidos de cotizacion Notion: https://accidental-leotard-1e6.notion.site/39d1cebc2ccf80229116d964429e8c23?v=39d1cebc2ccf80139320000c9abbd217&source=copy_link
-- Video demo exitoso: https://drive.google.com/uc?export=download&id=1jwJGiLQfoyrzRpyO7I4d4z_hqM1Fha-2
-- Video demo error: caso sin aprobación/timeout del humano: https://drive.google.com/uc?export=download&id=1TtkCO1j62qGP2dzz8Ck98o-kL0t5MCHM
+- Video demo exitoso:
+- [Descargar (recomendado para reproducción sin pixelado)] https://drive.google.com/uc?export=download&id=1jwJGiLQfoyrzRpyO7I4d4z_hqM1Fha-2
+- [Ver online] https://drive.google.com/file/d/1jwJGiLQfoyrzRpyO7I4d4z_hqM1Fha-2/view?usp=sharing
+- 
+- Video demo error: caso sin aprobación/timeout del humano:
+- [Descargar (recomendado para reproducción sin pixelado)] https://drive.google.com/uc?export=download&id=1TtkCO1j62qGP2dzz8Ck98o-kL0t5MCHM
+- [Ver online] https://drive.google.com/file/d/1TtkCO1j62qGP2dzz8Ck98o-kL0t5MCHM/view?usp=sharing
 
 ## Evidencia
 Ver capturas en [Evidencias del funcionamiento del Workflow (1).pdf](https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/81efa1b54b56d03946cbc8ff1d25abb830d363d2/Evidencias%20del%20funcionamiento%20del%20Workflow%20%281%29.pdf)
