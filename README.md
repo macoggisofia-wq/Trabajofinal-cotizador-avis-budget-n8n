@@ -34,4 +34,4 @@ Ver diagrama completo en https://github.com/macoggisofia-wq/Trabajofinal-cotizad
 Ver capturas en [Evidencias del funcionamien del Workflow (1).pdfto](https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/81efa1b54b56d03946cbc8ff1d25abb830d363d2/Evidencias%20del%20funcionamiento%20del%20Workflow%20(1).pdf)
 
 ## Lógica del flujo
-Workflow exportado de n8n (.json): Trabajo final (2).json
+Workflow exportado de n8n (.json): [Trabajo final (2).json](https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/90feb01a37a6e62e08eea6c8f9a344e46b4e1e86/Trabajo%20final%20(2).json)
