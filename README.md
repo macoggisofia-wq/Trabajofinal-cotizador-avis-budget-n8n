@@ -14,6 +14,7 @@ al cliente.
 
 ## Arquitectura
 Ver diagrama completo en https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/e99f702e3ecf5f9b41c9c9d520e7fb08677884ff/Diagrama%20de%20Arquitectura-Cotizador%20ABG.pdf
+
 Diagrama JSON: https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/85646366858320e165966571dc123ee3daf549b9/Trabajo%20final%20(2).json
 
 ## Flujo del proceso
