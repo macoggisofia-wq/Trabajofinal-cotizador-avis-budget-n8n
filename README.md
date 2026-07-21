@@ -13,7 +13,8 @@ al cliente.
 - Canales de salida: Gmail, Telegram
 
 ## Arquitectura
-Ver diagrama completo en: https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/62d0d55c2e621e3191fe5dd775970c7e5b56a3cb/Diagrama%20de%20Arquitectura-Cotizador%20ABG.pdf
+Ver diagrama completo en [Diagrama de Arquitectura-Cotizador ABG.pdf](https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/62d0d55c2e621e3191fe5dd775970c7e5b56a3cb/Diagrama%20de%20Arquitectura-Cotizador%20ABG.pdf)
+
 
 ## Flujo del proceso
 1. Cliente completa formulario en Notion.
@@ -31,7 +32,7 @@ Ver diagrama completo en: https://github.com/macoggisofia-wq/Trabajofinal-cotiza
 - Video demo error: caso sin aprobación/timeout del humano: https://drive.google.com/file/d/1TtkCO1j62qGP2dzz8Ck98o-kL0t5MCHM/view?usp=sharing
 
 ## Evidencia
-Ver capturas en [Evidencias del funcionamien del Workflow (1).pdfto](https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/81efa1b54b56d03946cbc8ff1d25abb830d363d2/Evidencias%20del%20funcionamiento%20del%20Workflow%20(1).pdf)
+Ver capturas en [Evidencias del funcionamiento del Workflow (1).pdf](https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/81efa1b54b56d03946cbc8ff1d25abb830d363d2/Evidencias%20del%20funcionamiento%20del%20Workflow%20%281%29.pdf)
 
 ## Lógica del flujo
 Workflow exportado de n8n (.json): [Trabajo final (2).json](https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/90feb01a37a6e62e08eea6c8f9a344e46b4e1e86/Trabajo%20final%20(2).json)
