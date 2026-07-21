@@ -13,7 +13,7 @@ al cliente.
 - Canales de salida: Gmail, Telegram
 
 ## Arquitectura
-Ver diagrama completo en https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/a12865a5d099d5c6e1dca9d610ad4625f0893c80/Diagrama%20de%20Arquitectura-Cotizador%20ABG.pdf
+Ver diagrama completo en: https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/62d0d55c2e621e3191fe5dd775970c7e5b56a3cb/Diagrama%20de%20Arquitectura-Cotizador%20ABG.pdf
 
 ## Flujo del proceso
 1. Cliente completa formulario en Notion.
