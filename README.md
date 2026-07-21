@@ -13,9 +13,7 @@ al cliente.
 - Canales de salida: Gmail, Telegram
 
 ## Arquitectura
-Ver diagrama completo en https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/e99f702e3ecf5f9b41c9c9d520e7fb08677884ff/Diagrama%20de%20Arquitectura-Cotizador%20ABG.pdf
-
-Diagrama JSON: https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/85646366858320e165966571dc123ee3daf549b9/Trabajo%20final%20(2).json
+Ver diagrama completo en Diagrama de Arquitectura-Cotizador ABG.pdf
 
 ## Flujo del proceso
 1. Cliente completa formulario en Notion.
@@ -37,4 +35,4 @@ Diagrama JSON: https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-bu
 Ver capturas en [[Evidencias del funcionamiento del Workflow (1).pdf](Evidencias%20del%20funcionamiento%20del%20Workflow%20%281%29.pdf)](https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/5e1bc670afe4f6ee55dfb42db4f378d797901a0d/Evidencias%20del%20funcionamiento%20del%20Workflow%20(1).pdf)
 
 ## Lógica del flujo
-Archivo exportado de n8n: [Trabajo final (2).json](Trabajo%20final%20%282%29.json)
+Workflow exportado de n8n (.json): [Trabajo final (2).json](Trabajo%20final%20%282%29.json)
