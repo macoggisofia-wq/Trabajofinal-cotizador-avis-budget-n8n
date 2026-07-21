@@ -35,4 +35,4 @@ Ver diagrama completo en Diagrama de Arquitectura-Cotizador ABG.pdf
 Ver capturas en Evidencias del funcionamiento del Workflow (1).pdf
 
 ## Lógica del flujo
-Workflow exportado de n8n (.json): Evidencias del funcionamiento del Workflow (1).pdf
+Workflow exportado de n8n (.json): Trabajo final (2).json
