@@ -31,7 +31,7 @@ Ver diagrama completo en https://github.com/macoggisofia-wq/Trabajofinal-cotizad
 - Video demo error: caso sin aprobación/timeout del humano: https://drive.google.com/file/d/1TtkCO1j62qGP2dzz8Ck98o-kL0t5MCHM/view?usp=sharing
 
 ## Evidencia
-Ver capturas en Evidencias del funcionamiento del Workflow (1).pdf
+Ver capturas en [Evidencias del funcionamien del Workflow (1).pdfto](https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/81efa1b54b56d03946cbc8ff1d25abb830d363d2/Evidencias%20del%20funcionamiento%20del%20Workflow%20(1).pdf)
 
 ## Lógica del flujo
 Workflow exportado de n8n (.json): Trabajo final (2).json
