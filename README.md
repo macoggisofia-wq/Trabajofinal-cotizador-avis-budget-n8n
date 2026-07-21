@@ -14,7 +14,7 @@ al cliente.
 
 ## Arquitectura
 Ver diagrama completo en https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/e99f702e3ecf5f9b41c9c9d520e7fb08677884ff/Diagrama%20de%20Arquitectura-Cotizador%20ABG.pdf
-Diagrama JSON:
+Diagrama JSON: 
 
 ## Flujo del proceso
 1. Cliente completa formulario en Notion.
