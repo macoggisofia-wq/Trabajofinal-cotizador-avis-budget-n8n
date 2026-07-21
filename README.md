@@ -32,7 +32,7 @@ Ver diagrama completo en Diagrama de Arquitectura-Cotizador ABG.pdf
 - Video demo error (Sin aprobación del humano): https://drive.google.com/file/d/1TtkCO1j62qGP2dzz8Ck98o-kL0t5MCHM/view?usp=sharing
 
 ## Evidencia
-Ver capturas en [[Evidencias del funcionamiento del Workflow (1).pdf](Evidencias%20del%20funcionamiento%20del%20Workflow%20%281%29.pdf)](https://github.com/macoggisofia-wq/Trabajofinal-cotizador-avis-budget-n8n/blob/5e1bc670afe4f6ee55dfb42db4f378d797901a0d/Evidencias%20del%20funcionamiento%20del%20Workflow%20(1).pdf)
+Ver capturas en Evidencias del funcionamiento del Workflow (1).pdf
 
 ## Lógica del flujo
-Workflow exportado de n8n (.json): [Trabajo final (2).json](Trabajo%20final%20%282%29.json)
+Workflow exportado de n8n (.json): Evidencias del funcionamiento del Workflow (1).pdf
